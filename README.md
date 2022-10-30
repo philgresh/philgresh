@@ -6,7 +6,7 @@ Hi there, my name is Phil Gresham. I'm a software engineer and new dad living in
 - **Portfolio**: [gresham.dev](gresham.dev)
 - **Pronouns**: he/him
 - **Current projects**:
-  - I'm currently working on [an app](https://github.com/philgresh/tsunami-alert-gcp) to notify participants of tsunami events that may affect them. A CRON job checks for any updates from a government RSS feed, parses the feed and related XML documents, and then sends a text to participants if the tsunami might affect their area. The stack includes a Firebase backend using Realtime Database, Cloud Functions, and Twilio for SMS, and a React frontend. The project also requires revamping an [open-source library](https://github.com/philgresh/cap-ts) which I will eventually sundown as I make contributions to the original library.
+  - I'm currently working on [an app](https://github.com/philgresh/tsunami-events) to notify participants of tsunami events that may affect them. In short: A CRON job checks for any updates from a government RSS feed, parses the feed and related XML documents, and then sends a text to participants if the tsunami might affect their area. The stack includes a Firebase backend using Realtime Database, Cloud Functions, and Twilio for SMS, and a React frontend. The project also requires revamping an [open-source library](https://github.com/philgresh/cap-ts) which I will eventually sundown as I make contributions to the original library.
 
 ## Top languages
 
