@@ -1,6 +1,6 @@
 Hi there, my name is Phil Gresham. I'm a software engineer and new dad living in the SF Bay Area who loves traveling, tinkering with projects around the house, and reading hard sci-fi.
 
-**I'm currently looking for my next opportunity**, where I'd love to contribute my skills to making a positive difference in the world. If your company is hiring a senior engineer, or if you know of a great position that's opening up, I'd love to chat! Please feel free to reach out to me if you would like to open a conversation.
+Please feel free to reach out to me if you would like to open a conversation.
 
 - **Email**: [phil@gresham.dev](mailto:phil@gresham.dev)
 - **Portfolio**: [gresham.dev](gresham.dev)
