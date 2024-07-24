@@ -1,4 +1,4 @@
-Hi there, my name is Phil Gresham. I'm a software engineer and new dad living in the SF Bay Area who loves traveling, tinkering with projects around the house, and reading hard sci-fi.
+Hi there, my name is Phil Gresham. I'm a software engineer and dad living in the SF Bay Area who loves traveling, tinkering with projects around the house, and reading sci-fi.
 
 Please feel free to reach out to me if you would like to open a conversation.
 
